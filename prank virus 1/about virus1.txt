@@ -1,0 +1,2 @@
+This is a virus that ask you question then give you fake texts then loop that & you can't close that.
+You should stop looping in "Task Manager", and end that task!
